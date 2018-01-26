@@ -1,11 +1,11 @@
 
-#Tarjeta de crédito válida
+# Tarjeta de crédito válida
 
 `Por Pamela Arteaga`
 
 Programa para validar un número de tarjeta de crédito a través del Algoritmo de Luhn.
 
-##Seudocódigo:
+## Seudocódigo:
 
 - Ingresar número de tarjeta en un `prompt()`.
 - Validar si el campo esta vacio o se ingreso un string.
@@ -17,7 +17,7 @@ Programa para validar un número de tarjeta de crédito a través del Algoritmo 
 
 
 
-##Diagrama de flujo:
+## Diagrama de flujo:
 
 [Diagrama de flujo](diagrama2.png)
 
